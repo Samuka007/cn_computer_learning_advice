@@ -12,3 +12,4 @@
 
 * ### Chemistry
     * [Arrow Pushing in Organic Chemistry](https://scut-oc.obs.myhuaweicloud.com/ebooks/chemistry/Arrow%20Pushing%20in%20Organic%20Chemistry.pdf)
+    * [演習で学ぶ 有機反応機構](https://scut-oc.obs.myhuaweicloud.com/ebooks/chemistry/%E6%BC%94%E7%BF%92%E3%81%A6%E3%82%99%E5%AD%A6%E3%81%B5%E3%82%99%20%E6%9C%89%E6%A9%9F%E5%8F%8D%E5%BF%9C%E6%A9%9F%E6%A7%8B.pdf)
