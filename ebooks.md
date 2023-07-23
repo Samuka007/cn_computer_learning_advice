@@ -1,5 +1,7 @@
 # 学习资料
 
+记得留个Star xdd
+
 ## Computer Science
 
 * ### 专业课
@@ -8,6 +10,18 @@
     * [数据结构与算法分析-C++语言描述 (英文版第4版)](https://scut-oc.obs.myhuaweicloud.com/ebooks/CSclass/data-structures-and-algorithm-analysis-in-c_compress.pdf)
     * [Java语言程序设计（基础篇 英文版 原书第11版）](https://scut-oc.obs.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.epub)
 
+* ### 公共课
+    * [数学分析 - James Stewart Calculus 7th edition](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math&Physics/James%20Stewart%20Calculus%207th%20edition.pdf)
+    * [工科数学分析 华中科大(第二版)](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E5%A4%A7%28%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
+    * [离散数学 - discrete-mathematics-and-its-applications-eighth-edition](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/vdoc.pub_discrete-mathematics-and-its-applications.pdf)
+    * [概率论与数理统计 - JayL.Devore-Probability 8 ed](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/JayL.Devore-Probability%208%20ed.pdf)
+        * [概率论与数理统计答案 - JayL.Devore-Probability 8 ed sol](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/JayL.Devore-Probability%208%20ed%20sol.pdf)
+    * [概率论与数理统计 - PROBABILITY-AND-STATISTICS-5ed](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/%E3%80%8APROBABILITY-AND-STATISTICS%E3%80%8B_40075622.pdf)
+        * [PROBABILITY-AND-STATISTICS-5ed-sol](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/5%20ed%20solu.pdf)
+    * [大学物理 - Fundamentals of Physics Extended 9th](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/Fundamentals%20of%20Physics%20Extended%209th-HQ-Halliday.pdf)
+    * [大学物理所有公式](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E6%89%80%E6%9C%89%E5%85%AC%E5%BC%8F%EF%BC%8812%E9%A1%B5%EF%BC%89.pdf)
+    * [线性代数 - Linear-Algebra-and-Its-Applications 5th](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/Linear-Algebra-and-Its-Applications%205th.pdf)
+    
 * ### 其他素养
     * [压缩的艺术](https://scut-oc.obs.myhuaweicloud.com/ebooks/National/%E5%8E%8B%E7%BC%A9%E3%81%AE%E8%89%BA%E6%9C%AF2.0.pdf)
     * [提问的智慧pdf版](https://scut-oc.obs.myhuaweicloud.com/ebooks/National/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7-%E5%85%A5%E7%BE%A4%E5%BF%85%E7%9C%8B.pdf)
