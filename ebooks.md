@@ -21,6 +21,11 @@
     * [大学物理 - Fundamentals of Physics Extended 9th](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/Fundamentals%20of%20Physics%20Extended%209th-HQ-Halliday.pdf)
     * [大学物理所有公式](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E6%89%80%E6%9C%89%E5%85%AC%E5%BC%8F%EF%BC%8812%E9%A1%B5%EF%BC%89.pdf)
     * [线性代数 - Linear-Algebra-and-Its-Applications 5th](https://scut-oc.obs.myhuaweicloud.com/ebooks/Math%26Physics/Linear-Algebra-and-Its-Applications%205th.pdf)
+
+* ### 计算机经典书籍
+    * [提取码 147369](https://e-share.obs-website.cn-north-1.myhuaweicloud.com?token=ZC8k8e4KfhwtotDnI6nKKkqyFxqGSoR5rUkPtuSlXf/knLQN5vqP2T1cY8jjxHYUaEeqHHBAcBloccC9we4dPL9ETITN2vB6Y7N6aSdCaGNaCGNW/4oNM4bR3LcmoKXt22GdILSu6zSqzk+GcCKnaj2/b7dkZL5nnKljQQ019uAt5i/jeGezGdTkFEc752Tpt/0sBqogAC/ruM2dHRG4SfBv9ONqIP5BjLs5L8C0DbO6v0yYM45XZ1HH0s76p1WT/BB+Q2rpohtCkc55rP5a4G7YSPdjkPTGcPKdMzxb576H1FOaX6jYOrqSbdYqDrlpQ1iJRHEM6Vf1Lb+tLtYq1qA2jPIegLiG8zf+Da7tnR7xHojUjfHVIpXpztRzZnqI8wjJa9PGf0TmfuHwgnqaMxtvwiG/WXdvVIJ8Rx4XkAgEMbML/xjungCXtBvOvuy7j4hGi66bQOG0zzSqPY/Yx0/iysNgS2V4pikFXsA2hvfVLrqQh9Vr1PwtW1haBtQUte68s0zYrQXOC3vsmon46LK/Lc6j7UnBXcRDSR2goTs=)
+    
+    ![available-until-2024-1-qrcode](https://scut-oc.obs.myhuaweicloud.com/ebooks/CS_classic/available-until-2024-1.png)
     
 * ### 其他素养
     * [压缩的艺术](https://scut-oc.obs.myhuaweicloud.com/ebooks/National/%E5%8E%8B%E7%BC%A9%E3%81%AE%E8%89%BA%E6%9C%AF2.0.pdf)
