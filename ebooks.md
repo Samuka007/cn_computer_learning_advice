@@ -8,6 +8,10 @@
     * [数据结构与算法分析-C++语言描述 (英文版第4版)](https://scut-oc.obs.myhuaweicloud.com/ebooks/CSclass/data-structures-and-algorithm-analysis-in-c_compress.pdf)
     * [Java语言程序设计（基础篇 英文版 原书第11版）](https://scut-oc.obs.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.epub)
 
+* ### 其他素养
+    * [压缩的艺术](https://scut-oc.obs.myhuaweicloud.com/ebooks/National/%E5%8E%8B%E7%BC%A9%E3%81%AE%E8%89%BA%E6%9C%AF2.0.pdf)
+    * [提问的智慧pdf版](https://scut-oc.obs.myhuaweicloud.com/ebooks/National/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7-%E5%85%A5%E7%BE%A4%E5%BF%85%E7%9C%8B.pdf)
+
 ## Others
 
 * ### Chemistry
