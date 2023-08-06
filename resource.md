@@ -7,10 +7,18 @@
 
 * ## 推荐资源
     * ### C++
+        * [Compiler Explorer - godbolt.org - 在线代码分享神器 & C++ Playground](https://godbolt.org/)
         * [**C++ 全栈知识体系** - https://stibel.icu/ ](https://stibel.icu/)
         * [**mq白** - 现代C++爱好者](https://space.bilibili.com/1292761396)
-        * C++ 中文手册 https://zh.cppreference.com/
-        * [Compiler Explorer - godbolt.org - 在线代码分享神器](https://godbolt.org/)
+            * *C++交流QQ群：QQ群: 764722563*
+        * [C++ 手册 cppreference.com](https://zh.cppreference.com/)
+        * [**现代 C++ 教程** 高速上手 C++ 11/14/17/20 ( 欧长坤 第二版 )](https://changkun.de/modern-cpp)
+    
+    * ### GoLang
+        * [The Go Playground](https://go.dev/play/)
+
+    * ### Rust
+        * [Rust Playground](https://play.rust-lang.org/)
 
     * ### 深度学习
         * [《动手学深度学习》教程](https://zh-v2.d2l.ai/)
