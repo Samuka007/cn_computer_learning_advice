@@ -1,11 +1,11 @@
-languageCode = "zh"
+languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
-title = "计算机糕手"
+title = "想要成为计算机糕手"
 
 [params]
-  displayName = "ZH"
-  isoCode = "zh"
+  displayName = "中文"
+  isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
