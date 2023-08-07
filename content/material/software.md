@@ -1,11 +1,12 @@
 ---
 title: "软件集"
-date: 2023-08-06
-showDate: false
-showAuthor: false
+date: 2023-08-05
+authors:
+    - "c+c"
+    - "Samuka007"
 draft: false
 ---
-# 软件集
+
 不定时更新
 ---
 

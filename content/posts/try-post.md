@@ -1,6 +1,7 @@
 ---
 title: "Try Post"
 date: 2023-08-06T20:14:21+08:00
+lastmod : 2023-08-07
 draft: false
 ---
 

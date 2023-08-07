@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
-title = "想要成为计算机糕手"
+title = "SCUT C+C"
 
 [params]
   displayName = "中文"

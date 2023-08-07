@@ -1,11 +1,20 @@
 ---
 type: "article"
 title: "硬件"
+date: 2023-07-24
+lastmod: 2023-08-08
+authors: 
+    - "c+c"
 draft: false
 ---
+
+{{.lastmod}}
+
+{{ with .NextInSection }}{{ .Permalink }}{{ end }}
+
 # 硬件建议
 
-此篇文章具有时效性，最后编辑于`2023/8/6`。若有更多疑问，请参考 [学会提问](../../guides/must-learn) 来咨询。
+此篇文章具有时效性,若有更多疑问，请参考 [学会提问](../../guides/must-learn) 来咨询。
 
 * ## 如何跟上硬件发展节奏？
 

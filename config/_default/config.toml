@@ -3,11 +3,12 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://guide.samuka007.com/"
 defaultContentLanguage = "zh-cn"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
+enableGitInfo = true
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0

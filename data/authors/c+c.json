@@ -1,0 +1,8 @@
+{
+    "name": "SCUT Computer Clinic",
+    "image" : "img/scut-c+c.jpg",
+    "bio": "SCUT Computer Clinic is a voluntary student organization in South China University of Technology. We are a group of students who are interested in computer technology. We are committed to promoting the development of open source software and the sharing of knowledge. ",
+    "social": [
+        { "github": "https://github.com/Samuka007" }
+    ]
+}

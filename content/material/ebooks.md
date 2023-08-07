@@ -2,15 +2,10 @@
 title: "电子书"
 date: 2023-08-07
 authors:
-    - "computerclinic"
+    - "c+c"
     - "Samuka007"
-showDate: true
-showAuthor: true
-showAuthorsBadges : false
 draft: false
 ---
-
-记得留个Star xdd
 
 ## Computer Science
 

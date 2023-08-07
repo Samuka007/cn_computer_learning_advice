@@ -2,3 +2,10 @@ baseURL = 'http://example.org/'
 languageCode = 'zh-cn'
 title = 'Fresh in Computer'
 theme = 'blowfish'
+
+
+[frontmatter]
+  date = ['lastmod', 'publishDate', 'date']
+  expiryDate = ['expiryDate']
+  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
