@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 title = 'Fresh in Computer'
 theme = 'blowfish'
