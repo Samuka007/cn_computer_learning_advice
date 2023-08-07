@@ -13,17 +13,17 @@
 [[main]]
   name = "博客"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "指南"
   pageRef = "guides"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "资源"
   pageRef = "material"
-  weight = 20
+  weight = 30
 
 # [[main]]
 #   name = "example sub-menu 1"
@@ -37,26 +37,26 @@
 #   pageRef = "posts"
 #   weight = 20
 
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
-  weight = 10
+# [[subnavigation]]
+#   name = "An interesting topic"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
 
-[[subnavigation]]
-  name = "My Awesome Category"
-  pre = "github"
-  pageRef = "categories/awesome"
-  weight = 20
+# [[subnavigation]]
+#   name = "My Awesome Category"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-  
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+# [[main]]
+  # name = "Categories"
+  # pageRef = "categories"
+  # weight = 20
+  # 
+# [[main]]
+  # name = "Tags"
+  # pageRef = "tags"
+  # weight = 30
 
 
 # -- Footer Menu --
