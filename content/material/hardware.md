@@ -8,12 +8,6 @@ authors:
 draft: false
 ---
 
-{{.lastmod}}
-
-{{ with .NextInSection }}{{ .Permalink }}{{ end }}
-
-# 硬件建议
-
 此篇文章具有时效性,若有更多疑问，请参考 [学会提问](../../guides/must-learn) 来咨询。
 
 * ## 如何跟上硬件发展节奏？
