@@ -5,7 +5,7 @@ theme = 'blowfish'
 
 
 [frontmatter]
-  date = ['lastmod', 'publishDate', 'date']
+  date = ['date', 'lastmod']
   expiryDate = ['expiryDate']
-  lastmod = ['lastmod', ':git', 'date', 'publishDate']
+  lastmod = [':git', 'lastmod', 'date']
   publishDate = ['publishDate', 'date']
