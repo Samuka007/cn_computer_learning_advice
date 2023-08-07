@@ -1,12 +1,12 @@
 ---
 title: "学习资料"
+date: 2023-08-03
+showDate: false
+showAuthor: false
 draft: false
 ---
-# 学习资料
 
-记得留个Star xdd
-
-对于Github与Microsoft平台访问有困难的，参考 [**软件集**](./software.md) 下修改host文件的工具
+对于Github与Microsoft平台访问有困难的，参考 [**软件集**](./software.md) 下修改host文件的工具.
 
 * ## 电子书
     [点击前往 **Ebooks**](./ebooks.md)

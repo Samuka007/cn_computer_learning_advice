@@ -1,9 +1,14 @@
 ---
 title: "电子书"
+date: 2023-08-07
+authors:
+    - "computerclinic"
+    - "Samuka007"
+showDate: true
+showAuthor: true
+showAuthorsBadges : false
 draft: false
 ---
-
-# E-books
 
 记得留个Star xdd
 

@@ -1,5 +1,8 @@
 ---
 title: "软件集"
+date: 2023-08-06
+showDate: false
+showAuthor: false
 draft: false
 ---
 # 软件集

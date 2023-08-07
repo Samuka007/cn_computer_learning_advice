@@ -1,5 +1,8 @@
 ---
 title: "硬件"
+date: 2023-08-03
+showDate: false
+showAuthor: false
 draft: false
 ---
 # 硬件建议
