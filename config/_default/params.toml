@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "Congo"
+colorScheme = "noir" 
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -17,15 +17,15 @@ enableCodeCopy = false
 
 disableImageOptimization = true
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "/img/Diamond.png" # used as default for background images 
+# defaultFeaturedImage = "/img/Diamond.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -35,8 +35,8 @@ disableImageOptimization = true
   showScrollToTop = true
 
 [homepage]
-  layout = "card" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/Diamond.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
