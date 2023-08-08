@@ -1,7 +1,7 @@
 languageCode = "zh-cn"
 languageName = "中文"
 weight = 1
-title = "SCUT C+C"
+title = "SCUT 电脑诊所"
 
 [params]
   displayName = "中文"
