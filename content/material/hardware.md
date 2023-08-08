@@ -4,7 +4,7 @@ title: "硬件"
 date: 2023-07-24
 lastmod: 2023-08-08
 authors: 
-    - "c+c"
+    - "CC"
 draft: false
 ---
 

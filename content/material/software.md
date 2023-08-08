@@ -2,7 +2,7 @@
 title: "软件集"
 date: 2023-08-05
 authors:
-    - "c+c"
+    - "CC"
     - "Samuka007"
 draft: false
 ---

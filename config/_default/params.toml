@@ -37,10 +37,10 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/Diamond.png" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/guides"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background

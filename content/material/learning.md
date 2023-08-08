@@ -2,7 +2,7 @@
 title: "学习资料"
 date: 2023-08-03
 authors:
-    - "c+c"
+    - "CC"
     - "Samuka007"
 draft: false
 ---

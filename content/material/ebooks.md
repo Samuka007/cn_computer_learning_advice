@@ -2,7 +2,7 @@
 title: "电子书"
 date: 2023-08-07
 authors:
-    - "c+c"
+    - "CC"
     - "Samuka007"
 draft: false
 ---
