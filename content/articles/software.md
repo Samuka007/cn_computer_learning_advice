@@ -5,6 +5,7 @@ authors:
     - "CC"
     - "Samuka007"
 draft: false
+categories: "resource"
 ---
 
 不定时更新

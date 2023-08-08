@@ -35,13 +35,13 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/Diamond.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
-  showMoreLinkDest = "/guides"
-  cardView = false
+  showMoreLinkDest = "/articles"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -53,7 +53,7 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   showAuthor = true
   # showHero = true
   # heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = true
@@ -104,7 +104,7 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
-  showHero = false
+  showHero = true
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -113,8 +113,8 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
+  showCards = true
+  groupByYear = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false

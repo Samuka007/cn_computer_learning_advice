@@ -21,14 +21,9 @@
   weight = 20
 
 [[main]]
-  name = "指南"
-  pageRef = "guides"
+  name = "文章"
+  pageRef = "articles"
   weight = 10
-
-[[main]]
-  name = "资源"
-  pageRef = "material"
-  weight = 30
 
 # [[main]]
 #   name = "example sub-menu 1"
@@ -53,15 +48,15 @@
 #   pageRef = "categories/awesome"
 #   weight = 20
 
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
+  
 # [[main]]
-  # name = "Categories"
-  # pageRef = "categories"
-  # weight = 20
-  # 
-# [[main]]
-  # name = "Tags"
-  # pageRef = "tags"
-  # weight = 30
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 
 # -- Footer Menu --

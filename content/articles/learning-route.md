@@ -1,6 +1,8 @@
 ---
 title: "学习路径"
+date: 2023-08-05T10:25:21+08:00
 draft: false
+categories: "guide"
 ---
 
 * ## C++

@@ -6,6 +6,7 @@ lastmod: 2023-08-08
 authors: 
     - "CC"
 draft: false
+categories: "resource"
 ---
 
 此篇文章具有时效性,若有更多疑问，请参考 [学会提问](../../guides/must-learn) 来咨询。

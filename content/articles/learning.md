@@ -5,6 +5,7 @@ authors:
     - "CC"
     - "Samuka007"
 draft: false
+categories: "resource"
 ---
 
 对于Github与Microsoft平台访问有困难的，参考 [**软件集**](../software) 下修改host文件的工具.

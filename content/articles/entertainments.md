@@ -1,6 +1,8 @@
 ---
 title: "消磨时间~~"
+date: 2023-08-01T20:14:21+08:00
 draft: false
+categories: "guide"
 ---
 
 # 消磨时间~~
