@@ -10,12 +10,12 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["articles"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "/img/Diamond.png" # used as default for background images 
 # defaultFeaturedImage = "/img/Diamond.png" # used as default for featured images in all articles
@@ -41,7 +41,7 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/articles"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 

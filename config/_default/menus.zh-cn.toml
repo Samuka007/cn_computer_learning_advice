@@ -43,21 +43,38 @@
 #   weight = 10
 
 [[subnavigation]]
-  name = "指南"
-  # pre = "github"
-  pageRef = "categories/guide"
-  weight = 20
+  name = "About Me"
+  pre = "github"
+  pageRef = "about"
+  weight = 10
 
-[[subnavigation]]
-  name = "资源"
-  # pre = "github"
-  pageRef = "categories/resource"
-  weight = 20
+# [[subnavigation]]
+#   name = "资源"
+#   # pre = "github"
+#   pageRef = "categories/resource"
+#   weight = 20
 
 [[main]]
   name = "分类"
   pageRef = "categories"
+  weight = 30
+
+[[main]]
+  name = "指南"
+  parent = "分类"
+  pageRef = "categories/guide"
+  weight = 10
+
+[[main]]
+  name = "资源"
+  parent = "分类"
+  pageRef = "categories/resource"
   weight = 20
+
+[[main]]
+  name = "作者"
+  pageRef = "authors"
+  weight = 40
   
 # [[main]]
 #   name = "Tags"

@@ -22,9 +22,9 @@ article:
 author:
   byline_title: "作者"
 
-# code:
-#   copy: "Copy"
-#   copied: "Copied"
+code:
+  copy: "Copy"
+  copied: "Copied"
 
 error:
   404_title: "找不到网页 :confused:"
