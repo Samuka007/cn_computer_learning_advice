@@ -1,8 +1,14 @@
 ---
-title: "小米十周年 感慨"
+title: "雷军2023年度演讲"
 date: 2023-08-17T12:49:23+08:00
+lastmod: 2023-08-17T12:49:23+08:00
+authors:
+    - "Samuka007"
+
 draft: false
 ---
+
+不得不说雷军还是你雷军。
 
 ![学会问人](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/picture/post/Xiaomi_Birth/1.jpeg)
 

@@ -1,0 +1,6 @@
+# ignore vscode profile
+/.vscode/
+# ignore build folder
+build/
+
+/resources/_gen/

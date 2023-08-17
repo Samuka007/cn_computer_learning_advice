@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["articles"]
+mainSections = ["articles", "posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -46,48 +46,19 @@ defaultBackgroundImage = "/img/Diamond.png" # used as default for background ima
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = false
-  showViews = false
-  showLikes = false
-  showDateUpdated = true
-  showAuthor = true
-  # showHero = true
-  # heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false
-  showAuthorsBadges = false
-  showWordCount = true
-  showSummary = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-
-[post]
   showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = true
   showAuthor = true
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  showEdit = true
+  editURL = "https://github.com/Samuka007/cn_computer_learning_advice/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
