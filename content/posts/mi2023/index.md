@@ -4,7 +4,7 @@ date: 2023-08-17T12:49:23+08:00
 lastmod: 2023-08-17T12:49:23+08:00
 authors:
     - "Samuka007"
-
+heroStyle: "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
 draft: false
 ---
 
