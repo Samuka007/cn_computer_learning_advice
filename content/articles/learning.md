@@ -12,7 +12,7 @@ categories: "resource"
 
 ## 电子书
 
-    [点击前往 **Ebooks**](../ebooks)
+    [点击前往 **Ebooks**](/articles/ebooks)
 
 ## 推荐资源
 
