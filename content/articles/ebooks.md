@@ -58,6 +58,10 @@ menu: subnavigation
 * [Effective Java 中文第二版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 * [数据结构与算法经典问题解析  Java语言描述](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E8%A7%A3%E6%9E%90%20%20Java%E8%AFAD%E8%A8%80%E6%8F%8F%E8%BF%B0.pdf)
 
+#### Database and Storage
+
+* [高性能MySQL 第三版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C%E5%AD%98%E5%82%A8/%E9%AB%98%E6%80%A7%E8%83%BD%20MySQL%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+
 #### All CS Books
 
 [提取码 147369](https://e-share.obs-website.cn-north-1.myhuaweicloud.com?token=ZC8k8e4KfhwtotDnI6nKKkqyFxqGSoR5rUkPtuSlXf/knLQN5vqP2T1cY8jjxHYUaEeqHHBAcBloccC9we4dPL9ETITN2vB6Y7N6aSdCaGNaCGNW/4oNM4bR3LcmoKXt22GdILSu6zSqzk+GcCKnaj2/b7dkZL5nnKljQQ019uAt5i/jeGezGdTkFEc752Tpt/0sBqogAC/ruM2dHRG4SfBv9ONqIP5BjLs5L8C0DbO6v0yYM45XZ1HH0s76p1WT/BB+Q2rpohtCkc55rP5a4G7YSPdjkPTGcPKdMzxb576H1FOaX6jYOrqSbdYqDrlpQ1iJRHEM6Vf1Lb+tLtYq1qA2jPIegLiG8zf+Da7tnR7xHojUjfHVIpXpztRzZnqI8wjJa9PGf0TmfuHwgnqaMxtvwiG/WXdvVIJ8Rx4XkAgEMbML/xjungCXtBvOvuy7j4hGi66bQOG0zzSqPY/Yx0/iysNgS2V4pikFXsA2hvfVLrqQh9Vr1PwtW1haBtQUte68s0zYrQXOC3vsmon46LK/Lc6j7UnBXcRDSR2goTs=)
