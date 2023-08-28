@@ -46,4 +46,6 @@ int main()
 }
 ```
 
-更多关于 **Concept** 请详见 [概念库 (C++20) - cppreference.com](https://zh.cppreference.com/w/cpp/concepts) 与 [C++20高级编程(英文版) - Professional C++ ( Marc Gregoire )](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/C_C%2B%2B/Professional%20C%2B%2B%20%28Marc%20Gregoire%29%20%28z-lib.org%29.pdf) 中的模版章节。
+更多关于 **约束传入模版类型** 详见[**C++模板如何要求传入的类型符合要求** - mq白](https://zhuanlan.zhihu.com/p/609591745)
+
+更多关于 **Concept** 请详见 [**概念库 (C++20)** - cppreference.com](https://zh.cppreference.com/w/cpp/concepts) 与 [**C++20高级编程**(英文版) - Professional C++ ( Marc Gregoire )](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/C_C%2B%2B/Professional%20C%2B%2B%20%28Marc%20Gregoire%29%20%28z-lib.org%29.pdf) 中的模版章节。
