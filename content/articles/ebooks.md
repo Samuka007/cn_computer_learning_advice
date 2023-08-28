@@ -23,6 +23,8 @@ menu: subnavigation
 * [数据结构与算法分析-C++语言描述 (中文版第4版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%20C%2B%2B%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0.4th.Mark%20Allen%20Weiss.2016.pdf)
 * [Java语言程序设计（基础篇 英文版 原书第11版 PDF）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.pdf)
 * [Java语言程序设计（基础篇 英文版 原书第11版 EPUB）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.epub)
+* [Java语言程序设计-中文版梁勇](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%A2%81%E5%8B%87.pdf)
+* [计算机组成与嵌入式系统-原书第6版-中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88.pdf)
 
 ### 公共课
 
@@ -59,6 +61,7 @@ menu: subnavigation
 * [深入理解Java虚拟机：JVM高级特性与最佳实践（第二版）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E6%9C%80%E6%96%B0%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 * [Effective Java 中文第二版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 * [数据结构与算法经典问题解析  Java语言描述](https://scut-oc.obs.myhuaweicloud.com/ebooks/CS_classic/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BB%8F%E5%85%B8%E9%97%AE%E9%A2%98%E8%A7%A3%E6%9E%90%20%20Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0.pdf)
+* [Java语言程序设计-中文版梁勇](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%A2%81%E5%8B%87.pdf)
 
 #### Database and Storage
 
