@@ -20,6 +20,7 @@ menu: subnavigation
 * [C++大学教程（第九版）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/C%2B%2B%E5%A4%A7%E5%AD%A6%E6%95%99%E7%A8%8B%28%E7%AC%AC%E4%B9%9D%E7%89%88%29.pdf)
 * [电路与电子技术](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/14210969_%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%3DELECTRICCIRCUITSANDELECTRONICS.pdf)
 * [数据结构与算法分析-C++语言描述 (英文版第4版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/data-structures-and-algorithm-analysis-in-c_compress.pdf)
+* [数据结构与算法分析-C++语言描述 (中文版第4版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%20C%2B%2B%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0.4th.Mark%20Allen%20Weiss.2016.pdf)
 * [Java语言程序设计（基础篇 英文版 原书第11版 PDF）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.pdf)
 * [Java语言程序设计（基础篇 英文版 原书第11版 EPUB）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.epub)
 
@@ -28,6 +29,7 @@ menu: subnavigation
 * [数学分析 - James Stewart Calculus 7th edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/James%20Stewart%20Calculus%207th%20edition.pdf)
 * [工科数学分析 华中科大(第二版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E5%A4%A7%28%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
 * [离散数学 - discrete-mathematics-and-its-applications-eighth-edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/discrete-mathematics-and-its-applications_compress.pdf)
+* [离散数学及其应用-原书第七版中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20%2C%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20%2CP793.pdf)
 * [概率论与数理统计 - JayL.Devore-Probability 8 ed](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/JayLDevore-Probability%208%20ed.pdf)
   * [概率论与数理统计答案 - JayL.Devore-Probability 8 ed sol](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/JayLDevore-Probability%208%20ed%20sol.pdf)
 * [概率论与数理统计 - PROBABILITY-AND-STATISTICS-5ed](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/%E3%80%8APROBABILITY-AND-STATISTICS%E3%80%8B_40075622.pdf)
