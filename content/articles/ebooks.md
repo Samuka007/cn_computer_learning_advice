@@ -79,3 +79,10 @@ menu: subnavigation
 
 * [Arrow Pushing in Organic Chemistry](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/chemistry/Arrow%20Pushing%20in%20Organic%20Chemistry.pdf)
 * [演習で学ぶ 有機反応機構](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/chemistry/%E6%BC%94%E7%BF%92%E3%81%A6%E3%82%99%E5%AD%A6%E3%81%B5%E3%82%99%20%E6%9C%89%E6%A9%9F%E5%8F%8D%E5%BF%9C%E6%A9%9F%E6%A7%8B.pdf)
+
+## 上诉链接若失效可在此前往下载
+
+[点此下载](https://e-share.obs-website.cn-north-1.myhuaweicloud.com?token=ZC8k8e4KfhwtotDnI6nKKiMR087qGSeh3Jr3UTYDPEFu2eA7O6B1LDUhgG5XdeOmFV9pJsV2AjIpSWb3oVaj1Srfg/wAAZOURyLIZDdL3nsFp7NaIXeEOGPYVksQG6xGXkkr6ONtamBcJc+zTC06zOUlrDF3frCPZ5f5NBeuM+q+osFf6Cp2HKBHKWqmylsHLfFuH7AeaFvRqMDQFXfzX4XywuSVhDj2UVATHJgXAcWJg7sgf69Pv8xfdjPydRzMKGr4ZtfPlDHjMUSzah5nCgEHc6tjsd4tkOZ+zLMJIw97IySgIe/VaCxoafj6s+nRT6Z3n1bN7Ou5HLnlfQk6db4f6CcC4E1xt3JUiBfUNvKS9Qd/iR14iVxFxgLo2njK8GEWYhA9xhxtbdKL0tjWYsLlOFfg3e+Xe2ycJ+kbAO2MTd99uetT2FHfSIVWX6h5sPiJDIQR5qVWG2Wj4ShPafyvOPgjYcqYQvWbsEVFubGHLJuRu7eyBzbpv3452SGIQ08W/Lil0xwInqXx8ON4mb2dIToo5cVGxUSQgy3D+WE=)
+提取码: 147369
+
+有效期至: 2024/08/22 10:46:28 GMT+08:00
