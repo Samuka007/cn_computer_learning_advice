@@ -6,7 +6,7 @@ authors:
 categories: "Advance"
 tags:
     - "C++"
-    - "C++ 20"
+    - "Modern C++"
     - "Program"
 draft: false
 ---
