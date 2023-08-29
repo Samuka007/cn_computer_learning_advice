@@ -25,6 +25,7 @@ menu: subnavigation
 * [Java语言程序设计（基础篇 英文版 原书第11版 EPUB）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/vdoc.pub_introduction-to-java-programming-and-data-structures-comprehensive-version.epub)
 * [Java语言程序设计-中文版梁勇](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/java%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%A2%81%E5%8B%87.pdf)
 * [计算机组成与嵌入式系统-原书第6版-中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88.pdf)
+* [Computer Organization and Embedded Systems - 6th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/Computer%20Organization%20and%20Embedded%20Systems.pdf)
 
 ### 公共课
 
