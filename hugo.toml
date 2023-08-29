@@ -1,11 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://guide.samuka007.xyz/'
 languageCode = 'zh-cn'
-title = 'Fresh in Computer'
+title = 'SCUT Computer Clinic'
 theme = 'blowfish'
 
 
 [frontmatter]
   date = ['date', 'lastmod']
   expiryDate = ['expiryDate']
-  lastmod = [':git', 'lastmod', 'date']
+  lastmod = ['lastmod', ':git', 'date']
   publishDate = ['publishDate', 'date']

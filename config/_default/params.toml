@@ -36,7 +36,7 @@ defaultBackgroundImage = "https://scut-oc.obs.cn-south-1.myhuaweicloud.com/pictu
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/Diamond.png" # used in: hero, and card
+  homepageImage = "https://scut-oc.obs.cn-south-1.myhuaweicloud.com/picture/util/Diamond.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
