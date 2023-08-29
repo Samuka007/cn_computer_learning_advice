@@ -17,7 +17,7 @@ mainSections = ["articles", "posts"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "/img/Diamond.png" # used as default for background images 
+defaultBackgroundImage = "https://scut-oc.obs.cn-south-1.myhuaweicloud.com/picture/util/Diamond.png" # used as default for background images 
 # defaultFeaturedImage = "/img/Diamond.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
