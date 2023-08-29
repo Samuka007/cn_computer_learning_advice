@@ -92,6 +92,25 @@ void construct ( auto&& x ) {
 }
 ```
 
+运行结果：
+
+```shell
+x86-64 gcc 13.2 -std=c++20
+Program returned: 0
+Program stdout
+X()
+------
+X( const X& )
+~X()
+------
+X( X&& )
+~X()
+------
+~X()
+```
+
+显然，`construct()`在传入`x`时，调用复制构造（形参类型为`X&`）；在传入`move(x)`时，调用移动构造（形参类型为`X&&`），理想地实现了完美转发。
+
 > 什么时候可以 auto auto ( auto auto ) { auto; }
 
 在这里你也可以找到关于万能引用、引用折叠与完美转发的关系：[现代C++之万能引用、完美转发、引用折叠 - Francis - 知乎](https://zhuanlan.zhihu.com/p/99524127)
