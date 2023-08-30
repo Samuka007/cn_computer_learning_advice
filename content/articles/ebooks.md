@@ -14,8 +14,9 @@ menu: subnavigation
 ### 推荐的书
 
 * [C++20高级编程 - Professional C++ ( Marc Gregoire )](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/C_C%2B%2B/Professional%20C%2B%2B%20%28Marc%20Gregoire%29%20%28z-lib.org%29.pdf)
-* [深入理解计算机系统 - Computer Systems：A Programmer’s Perspective, 3th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.epub)
-  * [中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%AD%E6%96%87%E6%B8%85%E6%99%B0%29.pdf)
+* [深入理解计算机系统 - Computer Systems：A Programmer’s Perspective, 3th Edition - EPUB](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.epub)
+  * [英文版 PDF](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.pdf)
+  * [中文版 PDF](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%AD%E6%96%87%E6%B8%85%E6%99%B0%29.pdf)
 * [计算机网络：自顶而下方法原书 - Computer Networking A Top-Down Approach, 7th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20%28z-lib.org%29.pdf)
 
 ### 专业课
@@ -57,7 +58,8 @@ menu: subnavigation
 * [Linux内核设计与实现(第三版中文版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FLinux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%28%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E9%AB%98%E6%B8%8%E5%B8%A6%E7%9B%AE%E5%BD%95%29.pdf)
 * [汇编语言(第3版) 王爽著](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B/%E3%80%8A%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%28%E7%AC%AC3%E7%89%88%29%20%E3%80%8B%E7%8E%8B%E7%88%BD%E8%91%97.pdf)
 * [Computer Organization and Embedded Systems - 6th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/Computer%20Organization%20and%20Embedded%20Systems.pdf)
-* [深入理解计算机系统 - Computer Systems：A Programmer’s Perspective, 3th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.epub)
+* [Computer Systems：A Programmer’s Perspective, 3th Edition - EPUB](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.epub)
+* [Computer Systems：A Programmer’s Perspective, 3th Edition - PDF](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/_OceanofPDF.com_Computer_Systems_3rd_Edition_-_Randal_Bryant.pdf)
 * [深入理解计算机系统（CSAPP）](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%EF%BC%88%E4%B8%AD%E6%96%87%E6%B8%85%E6%99%B0%29.pdf)
 * [计算机网络：自顶而下方法原书 - Computer Networking A Top-Down Approach, 7th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Computer%20Networking%20A%20Top-Down%20Approach%2C%207th%20Edition%20by%20James%20Kurose%2C%20Keith%20Ross%20%28z-lib.org%29.pdf)
 * [Computer Networking A Top-Down Approach, 6th Edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/Computer%20Networking%20A%20Top%20Down%20Approach%206th%20Edition%20By%20Kurros%20and%20Ross.pdf)
