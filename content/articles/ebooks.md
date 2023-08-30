@@ -4,6 +4,7 @@ date: 2023-08-07
 authors:
     - "CC"
     - "Samuka007"
+showAuthors: false
 draft: false
 categories: "resource"
 menu: subnavigation
