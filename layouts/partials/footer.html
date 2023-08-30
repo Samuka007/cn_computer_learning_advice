@@ -16,41 +16,44 @@
   {{ end }}
   <div class="flex items-center justify-between">
 
-    {{/* Copyright */}}
-    {{ if .Site.Params.footer.showCopyright | default true }}
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
-      {{ . | emojify | markdownify }}
-      {{- else }}
-      &copy;
-      {{ now.Format "2006" }}
-      {{ .Site.Author.name | markdownify | emojify }}
-      {{- end }}
-    </p>
-    {{ end }}
-
-    
-    <div class="flex items-center justify-between">
+    <div class="flex items-center">
       <img src="http://www.beian.gov.cn/img/ghs.png" style="width:16px;">
-      <p class="text-xs text-neutral-500 dark:text-neutral-400">
-        <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010502002208" target="_blank"> 粤公网安备 44010502002208 号 </a>
-        <a>|</a>
-        <a href="https://beian.miit.gov.cn/" target="_blank"> 粤ICP备 2022014470 号 </a>
-      </p>
+      <div>
+        <p class="text-xs text-neutral-500 dark:text-neutral-400">
+          <a href="https://beian.miit.gov.cn/" target="_blank"> 粤ICP备 2022014470 号 </a>
+        </p>
+        <p class="text-xs text-neutral-500 dark:text-neutral-400">
+          <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010502002208" target="_blank"> 粤公网安备 44010502002208 号 </a>
+        </p>
+      </div>
     </div>
-
-    {{/* Theme attribution */}}
-    {{ if .Site.Params.footer.showThemeAttribution | default true }}
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
-      {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+    
+    <div>
+    {{/* Copyright */}}
+      {{ if .Site.Params.footer.showCopyright | default true }}
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
+        {{ . | emojify | markdownify }}
+        {{- else }}
+        &copy;
+        {{ now.Format "2006" }}
+        {{ .Site.Author.name | markdownify | emojify }}
+        {{- end }}
+      </p>  
+      {{ end }}
+      {{/* Theme attribution */}}
+      {{ if .Site.Params.footer.showThemeAttribution | default true }}
+      <p class="text-xs text-neutral-500 dark:text-neutral-400">
+        {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
-      }}
-      {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        }}
+        {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
-      {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
-    </p>
-    {{ end }}
-
+        {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+      </p>
+      {{ end }}
+    </div>
+    
   </div>
   <script>
     {{ if not .Site.Params.disableImageZoom | default true }}
