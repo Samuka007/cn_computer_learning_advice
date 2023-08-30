@@ -1,10 +1,6 @@
 ---
 title: "电子书"
 date: 2023-08-07
-authors:
-    - "CC"
-    - "Samuka007"
-showAuthor: false
 draft: false
 categories: "resource"
 menu: subnavigation
