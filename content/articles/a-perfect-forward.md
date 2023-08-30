@@ -13,6 +13,8 @@ summary: 不想再只为某个重载了复制和移动两个版本的函数，�
 draft: false
 ---
 
+## 引入
+
 C++作为一门*兼顾优雅与效率*的语言，自然不会让你幸苦写几遍代码只为了辨析复制和移动～
 
 所以，当你再遇到像
@@ -24,17 +26,21 @@ void insert ( T&& value );
 
 这样要重载两次的版本时，倘若他们之间除了形参不同，没有其他不同的话，你大可以使用 **完美转发** 来帮你优雅地省下复制粘贴的时间～（不是
 
+## 前置知识
+
 要想使用 **完美转发**，你需要了解：
 
 * 万能引用 与 引用折叠，见 [引用声明](https://zh.cppreference.com/w/cpp/language/reference)
 * [std::**forward**](https://zh.cppreference.com/w/cpp/utility/forward)
 * 并掌握一点点 [**模版形参推导**](https://zh.cppreference.com/w/cpp/language/template_argument_deduction#.E4.BB.8E.E5.87.BD.E6.95.B0.E8.B0.83.E7.94.A8.E6.8E.A8.E5.AF.BC) 的知识
 
-如果你对于上述名词感到非常陌生，对于移动构造、移动语义也不太了解，可以先了解前置知识：
+如果你对于上述名词感到非常陌生，对于移动构造、移动语义也不太了解，可以先了解基础知识：
 
 * 右值，见 [值类别](https://zh.cppreference.com/w/cpp/language/value_category)
 * [移动构造函数](https://zh.cppreference.com/w/cpp/language/move_constructor) 与 [移动运算符](https://zh.cppreference.com/w/cpp/language/move_assignment)
 * [std::**move**](https://zh.cppreference.com/w/cpp/utility/move)
+
+## Demo
 
 其实在cppreference中，已经讲述了 完美转发 的原理了（见 [引用声明](https://zh.cppreference.com/w/cpp/language/reference) - 转发引用）。
 这里通过一个demo来演示完美转发的基本使用，你也可以点此前往 [Compiler Explorer](https://godbolt.org/z/1hds1YGeh) 试一试。
@@ -112,5 +118,7 @@ X( X&& )
 显然，`construct()`在传入`x`时，调用复制构造（形参类型为`X&`）；在传入`move(x)`时，调用移动构造（形参类型为`X&&`），理想地实现了完美转发。
 
 > 什么时候可以 auto auto ( auto auto ) { auto; }
+
+## 参考
 
 在这里你也可以找到关于万能引用、引用折叠与完美转发的关系：[现代C++之万能引用、完美转发、引用折叠 - Francis - 知乎](https://zhuanlan.zhihu.com/p/99524127)

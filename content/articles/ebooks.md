@@ -81,14 +81,14 @@ menu: subnavigation
 
 ![available-until-2024-1-qrcode](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CS_classic/available-until-2024-1.png)
 
-### Others
+## Others
 
-#### Some Skills
+### Some Skills
 
 * [压缩的艺术](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/National/%E5%8E%8B%E7%BC%A9%E3%81%AE%E8%89%BA%E6%9C%AF2.0.pdf)
 * [提问的智慧pdf版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/National/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7-%E5%85%A5%E7%BE%A4%E5%BF%85%E7%9C%8B.pdf)
 
-#### Chemistry
+### Chemistry
 
 * [Arrow Pushing in Organic Chemistry](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/chemistry/Arrow%20Pushing%20in%20Organic%20Chemistry.pdf)
 * [演習で学ぶ 有機反応機構](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/chemistry/%E6%BC%94%E7%BF%92%E3%81%A6%E3%82%99%E5%AD%A6%E3%81%B5%E3%82%99%20%E6%9C%89%E6%A9%9F%E5%8F%8D%E5%BF%9C%E6%A9%9F%E6%A7%8B.pdf)
