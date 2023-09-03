@@ -2,10 +2,13 @@
 title: "Tower of Hanoi I"
 date: 2023-09-03T13:41:52+08:00
 authors: 
-categories:
+    - "Samuka007"
+categories: "guide"
 tags:
+    - "C++"
+    - "Program"
 summary: Classic tower of Hanoi recursion solution, with graphic display.
-draft: true
+draft: false
 ---
 ## Introduct
 
