@@ -16,6 +16,11 @@
   weight = 1
 
 [[main]]
+  name = "招新回顾"
+  pageRef = "/articles/z-zhaoxin2023"
+  weight = 2
+
+[[main]]
   name = "博客"
   pageRef = "posts"
   weight = 20
