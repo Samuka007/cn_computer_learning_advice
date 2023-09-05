@@ -24,7 +24,8 @@ categories: "resource"
 
   * [**mq白** - 现代C++爱好者](https://space.bilibili.com/1292761396)
 
-    * *C++交流QQ群：QQ群: 764722563*
+    * [C++20 STL Cookbook 2023 - mq-b - github](https://github.com/Mq-b/Cpp20-STL-Cookbook-src)
+    * *C++交流 QQ群：764722563*
 
   * [C++ 手册 cppreference.com](https://zh.cppreference.com/)
 

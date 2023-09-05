@@ -33,7 +33,7 @@ menu: subnavigation
 * [数学分析 - James Stewart Calculus 7th edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/James%20Stewart%20Calculus%207th%20edition.pdf)
 * [工科数学分析 华中科大(第二版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E5%A4%A7%28%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
 * [离散数学 - discrete-mathematics-and-its-applications-eighth-edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/discrete-mathematics-and-its-applications_compress.pdf)
-* [离散数学及其应用-原书第七版中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20%2C%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20%2CP793.pdf)
+* **写作业用这本** [离散数学及其应用-原书第七版中文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20%2C%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20%2CP793.pdf)
 * [概率论与数理统计 - JayL.Devore-Probability 8 ed](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/JayLDevore-Probability%208%20ed.pdf)
   * [概率论与数理统计答案 - JayL.Devore-Probability 8 ed sol](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/JayLDevore-Probability%208%20ed%20sol.pdf)
 * [概率论与数理统计 - PROBABILITY-AND-STATISTICS-5ed](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/%E3%80%8APROBABILITY-AND-STATISTICS%E3%80%8B_40075622.pdf)
