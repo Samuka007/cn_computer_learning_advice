@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern C&#43;&#43; on SCUT 电脑诊所</title>
+    <link>http://localhost:1313/tags/modern-c&#43;&#43;/</link>
+    <description>Recent content in Modern C&#43;&#43; on SCUT 电脑诊所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 SCUT</copyright>
+    <lastBuildDate>Mon, 28 Aug 2023 09:32:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/modern-c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>引用折叠&#43;万能引用&#43;std::forward == 完美转发</title>
+      <link>http://localhost:1313/articles/a-perfect-forward/</link>
+      <pubDate>Mon, 28 Aug 2023 09:32:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/articles/a-perfect-forward/</guid>
+      <description>不想再只为某个重载了复制和移动两个版本的函数，而去写两遍一模一样的代码？你需要完美转发xd</description>
+      
+    </item>
+    
+    <item>
+      <title>如何优雅的在C&#43;&#43;中限定模版类型</title>
+      <link>http://localhost:1313/articles/a-elegant-type/</link>
+      <pubDate>Sat, 26 Aug 2023 22:46:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/articles/a-elegant-type/</guid>
+      <description>Concept 作为 &lt;code&gt;C++ 20&lt;/code&gt; 引入的一个新特性，是一个语法糖，同时也提供了相当一部分模版类型限定的预设，以及提供了用户友好的模版匹配失败报错。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

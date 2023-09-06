@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SCUT 电脑诊所</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on SCUT 电脑诊所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 SCUT</copyright>
+    <lastBuildDate>Sun, 03 Sep 2023 13:41:52 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <pubDate>Sun, 03 Sep 2023 13:41:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/tags/program/</link>
+      <pubDate>Sun, 03 Sep 2023 13:41:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/program/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modern C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/modern-c&#43;&#43;/</link>
+      <pubDate>Mon, 28 Aug 2023 09:32:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/modern-c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

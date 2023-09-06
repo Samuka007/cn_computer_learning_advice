@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on SCUT 电脑诊所</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in 博客 on SCUT 电脑诊所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 SCUT</copyright>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tower of Hanoi I</title>
+      <link>http://localhost:1313/posts/hanoi3/</link>
+      <pubDate>Sun, 03 Sep 2023 13:41:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/hanoi3/</guid>
+      <description>Classic tower of Hanoi recursion solution, with graphic display.</description>
+      
+    </item>
+    
+    <item>
+      <title>雷军2023年度演讲</title>
+      <link>http://localhost:1313/posts/mi2023/</link>
+      <pubDate>Thu, 17 Aug 2023 12:49:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/mi2023/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mi2023/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

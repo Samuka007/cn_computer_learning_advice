@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>指南 on SCUT 电脑诊所</title>
+    <link>http://localhost:1313/categories/guide/</link>
+    <description>Recent content in 指南 on SCUT 电脑诊所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 SCUT</copyright>
+    <atom:link href="http://localhost:1313/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tower of Hanoi I</title>
+      <link>http://localhost:1313/posts/hanoi3/</link>
+      <pubDate>Sun, 03 Sep 2023 13:41:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/hanoi3/</guid>
+      <description>Classic tower of Hanoi recursion solution, with graphic display.</description>
+      
+    </item>
+    
+    <item>
+      <title>学习路径</title>
+      <link>http://localhost:1313/articles/n-learning-route/</link>
+      <pubDate>Sat, 05 Aug 2023 10:25:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/articles/n-learning-route/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>基本素养</title>
+      <link>http://localhost:1313/articles/n-must-learn/</link>
+      <pubDate>Fri, 04 Aug 2023 08:14:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/articles/n-must-learn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>如何为项目做贡献</title>
+      <link>http://localhost:1313/articles/how-to-contribute/</link>
+      <pubDate>Tue, 01 Aug 2023 12:41:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/articles/how-to-contribute/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
