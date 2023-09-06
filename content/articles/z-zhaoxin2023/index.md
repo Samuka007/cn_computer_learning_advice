@@ -13,3 +13,15 @@ draft: false
 ---
 
 ## 2023电脑诊所招新
+
+### WHO WE ARE
+
+### 志愿服务机制
+
+### YOU CAN GET
+
+#### 技能提升
+
+#### 学科交流
+
+### WHY JOIN US
