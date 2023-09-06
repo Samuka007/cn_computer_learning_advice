@@ -5,6 +5,7 @@ draft: false
 showWordCount: false
 showReadingTime: false
 showEdit: false
+showLastmod: false
 ---
 
 
@@ -111,6 +112,8 @@ TODO: 完善文案
 
 > 诊所精选 电子涩图
 
+TODO: 补充文案
+
 <br>
 <br>
 <br>
@@ -132,7 +135,9 @@ TODO: 完善文案
 
 ### **知识交流**
 
-{{< carousel interval=2000 images="ack/*" >}}
+{{< carousel interval=2000 images="{ack/01.jpg,ack/02.jpg,ack/03.png}" >}}
+
+TODO: 补充文案
 
 <br>
 <br>
