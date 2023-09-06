@@ -5,7 +5,7 @@ authors:
     - "Samuka007"
 tags: 
     - "思考"
-draft: false
+draft: true
 ---
 
 今晚和老爹聊了许多，主要有几个要点。

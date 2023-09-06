@@ -17,7 +17,7 @@
 
 [[main]]
   name = "招新回顾"
-  pageRef = "/articles/z-zhaoxin2023"
+  pageRef = "/official/zhaoxin2023"
   weight = 2
 
 [[main]]
