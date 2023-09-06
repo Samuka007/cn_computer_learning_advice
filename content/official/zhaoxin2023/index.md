@@ -67,7 +67,7 @@ showLastmod: false
 
 ### **志愿机制**
 
-{{< carousel interval=2000 images="zhiyuan/*" >}}
+{{< carousel interval=2000 images="{zhiyuan/01.jpg,zhiyuan/02.jpg,zhiyuan/03.jpg,zhiyuan/04.jpg}" >}}
 
 TODO: 完善文案
 
