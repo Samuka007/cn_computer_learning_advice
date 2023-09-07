@@ -42,7 +42,7 @@ showTableOfContents: false
 <br>
 <br>
 
-{{< typeit tag=h1 speed=500 startDelay=50 lifeLike=true loop=true >}} WHO WE ARE        {{< /typeit >}}
+{{< typeit tag=h1 speed=500 lifeLike=true loop=true >}} WHO WE ARE         {{< /typeit >}}
 
 {{< timeline >}}
 
@@ -91,7 +91,7 @@ showTableOfContents: false
 <br>
 
 
-{{< typeit tag=h1 speed=500 startDelay=50 lifeLike=true loop=true >}} YOU CAN GET... ...        {{< /typeit >}}
+{{< typeit tag=h1 speed=500 lifeLike=true loop=true >}} YOU CAN GET... ...        {{< /typeit >}}
 
 ## **志愿机制**
 
@@ -225,7 +225,6 @@ showTableOfContents: false
 {{< typeit 
   tag=h1
   speed=500
-  startDelay=50
   lifeLike=true
   loop=true
 >}}
