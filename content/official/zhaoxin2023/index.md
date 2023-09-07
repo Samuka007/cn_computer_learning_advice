@@ -218,8 +218,9 @@ HOW TO JOIN US
 
 <!-- Todo:  -->
 <table><tr>
-<td width="50%"><img src="qrcode.jpg"/></td>
-<td width="50%"><img src="web_qrcode.png"/></td>
+<td width="33%"><img src="qrcodes/qrcode.jpg"/></td>
+<td width="33%"><img src="qrcodes/web_qrcode.png"/></td>
+<td width="33%"><img src="qrcodes/zhaoxin.jpg"/></td>
 </tr></table>
 
 > 欢迎你加入我们的队伍 
