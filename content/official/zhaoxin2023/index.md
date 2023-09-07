@@ -15,9 +15,9 @@ showTableOfContents: false
   speed=100
   startDelay=50
   lifeLike=true
-  loop=true
+  loop=false
 >}}
-2023电脑诊所招新👏                                                                                                                                                                                                                                                                                                                
+2023电脑诊所招新👏
 {{< /typeit >}}
 
 <br>
