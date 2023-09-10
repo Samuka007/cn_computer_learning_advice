@@ -16,8 +16,8 @@
   weight = 1
 
 [[main]]
-  name = "招新回顾"
-  pageRef = "/official/zhaoxin2023"
+  name = "服务"
+  pageRef = "official"
   weight = 2
 
 [[main]]
@@ -29,6 +29,8 @@
   name = "文章"
   pageRef = "articles"
   weight = 10
+
+
 
 # [[main]]
 #   name = "example sub-menu 1"
