@@ -61,18 +61,22 @@ int main() {
 \[`从环境中获取的变量`\]\(`向传入的参数`\) \{ `函数体，可以包含返回值，返回值自动推导` \}
 
 ```c++
-// run from 250 times to 2000 times
-for ( auto i{250}; i<2000; i*=2 ) {
-    std::cout << "执行 " << i << "次，耗时 "
-        << runtime::ms::count(
+// run from 2500 times to 20000 times
+for ( auto i{2500}; i<=20000; i*=2 ) {
+    std::cout << "run " << i << " times, cost "
+        << runtime::ns::count(
             [i]() { // 从这里开始
                 for ( auto j {0}; j<i; ++j ) {  
                     timeConsum();               
                 }                               
             } // 到这里结束，是lambda表达式
         ) 
-        << " ms\n";
+        << " ns\n";
 }
+// result:
+// run 2500 times, cost 4292 ns
+// run 5000 times, cost 8167 ns
+// run 10000 times, cost 16209 ns
 ```
 
 ## 注意
