@@ -11,15 +11,16 @@ categories: "resource"
 不定时更新
 ---
 
-* ## Tools
+## Tools
 
-  * [UsbEAm Hosts Editor [多平台hosts修改] V3.63](https://www.dogfight360.com/blog/475/)
+* [UsbEAm Hosts Editor [多平台hosts修改] V3.63](https://www.dogfight360.com/blog/475/) Hosts修改、直连神器
+* [Twinkle Tray](https://twinkletray.com/) 调整桌面显示器亮度神器
 
-* ## Cracked
+## Cracked
 
-  * [Adobe 2022 全家桶 SP版和大师版 @vposy破解打包 - 字节智造](https://www.zsxcool.com/28665.html)
+* [Adobe 2022 全家桶 SP版和大师版 @vposy破解打包 - 字节智造](https://www.zsxcool.com/28665.html) @vposy隐退了（悲
 
-* ## System
+## System
 
-  * [Windsys Project (Windsys.win) | 也许是最适合年轻人使用的第三方社区系统~](https://windsys.win/)
-  * [Office KMS KEY (GVLKs)](https://office-kms-keys.pages.dev/)
+* [Windsys Project (Windsys.win) | 也许是最适合年轻人使用的第三方社区系统~](https://windsys.win/)
+* [Office KMS KEY (GVLKs)](https://office-kms-keys.pages.dev/)
