@@ -30,6 +30,7 @@ menu: subnavigation
 
 ### 公共课
 
+* [离散数学 - 第七版英文版](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/CSclass/Discrete%20Mathematics%20and%20Its%20Applications%207th.pdf)
 * [数学分析 - James Stewart Calculus 7th edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/James%20Stewart%20Calculus%207th%20edition.pdf)
 * [工科数学分析 华中科大(第二版)](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E5%A4%A7%28%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
 * [离散数学 - discrete-mathematics-and-its-applications-eighth-edition](https://scut-oc.obs.cn-south-1.myhuaweicloud.com/ebooks/Math%26Physics/discrete-mathematics-and-its-applications_compress.pdf)
