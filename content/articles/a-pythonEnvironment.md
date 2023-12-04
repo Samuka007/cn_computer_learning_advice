@@ -8,7 +8,7 @@ summary: Python 绕不过去的一道坎就是多环境管理了，为什么 Pyt
 draft: false
 ---
 
-> 转载自 [知乎 **火眼狻猊**​](https://www.zhihu.com/people/huo-yan-suan-ni-6) ，内容有调整
+> 转载自 [知乎 **火眼狻猊**​](https://www.zhihu.com/people/huo-yan-suan-ni-6) ，[原文地址](https://zhuanlan.zhihu.com/p/106588887)，内容有调整
 
 ## 前言
 Python 绕不过去的一道坎就是多环境管理了，为什么 Python 要多环境管理呢？
