@@ -67,7 +67,10 @@ Python 多环境隔离，可以让你的每个项目拥有独立的依赖库，�
 ## 多环境隔离解决方案
 Python 社区对这个问题也是倾注了很多精力，涌现了许多优秀的库，下面我们就来好好比较一下。
 
-### [venv](https://docs.python.org/zh-cn/3.8/library/venv.html)
+### venv
+
+click to [venv](https://docs.python.org/zh-cn/3.8/library/venv.html)
+
 为什么把 venv 放在第一个，因为它是自 3.3 版本之后添加的官方库，自 3.6 版本之后，成为官方推荐的多环境管理工具。也就是说，你不需要安装任何第三方库就可以实现多环境管理了。
 
 只需要一个命令就可以创建一个虚拟环境。
@@ -98,7 +101,10 @@ d----           2023/12/4    18:37                Scripts
 
 很简单吧，不用安装其他的库就能使用，但是 venv 也有自己的缺点，最大的就是不能自动创建不同版本的 Python 环境。
 
-### [virtualenv](https://virtualenv.pypa.io/en/latest/index.html)
+### virtualenv
+
+click to [virtualenv](https://virtualenv.pypa.io/en/latest/index.html)
+
 virtualenv 可以说是 venv 的增强版本，不过早在 venv 出现之前，virtualenv 就算是最受欢迎的命令行环境管理工具了。venv 的许多特性也是借鉴的 virtualenv，相比于 venv，其强大之处主要在：
 
 - 更快
@@ -132,7 +138,9 @@ virtualenv venv -p python3
 
 当然，你可以自定义初始化的基础库，激活脚本等，功能强大。
 
-### [pyenv](https://github.com/pyenv/pyenv)
+### pyenv
+click to [pyenv](https://github.com/pyenv/pyenv)
+
 pyenv 主要用来对 Python 解释器进行管理，可以管理系统上的多个版本的 Python 解释器。它的主要原理就是将新的解释器路径放在 PATH 环境变量的前面，这样新的 python 程序就“覆盖”了老的 python 程序，达到了切换解释器的目的。
 
 使用 git 来安装
@@ -154,7 +162,9 @@ pyenv global 2.7.8
 ```
 更多的命令可以参考文档，可以配合 virtualenv 使用，使用 pyenv-virtualenv 实现自动化。
 
-### [pipenv](https://pipenv.kennethreitz.org/en/latest/)
+### pipenv
+click to [pipenv](https://pipenv.kennethreitz.org/en/latest/)
+
 pipenv 是一款比较新的包管理工具，其借鉴了 javascript 的 npm 和 PHP 的 composer 等理念，通过一个依赖描述文件 Pipfile 来安装和管理依赖，以达到协同开发的目的。如果你熟悉 npm 或者 composer 的话，那 pipenv 正合你胃口。pipenv 其实整合了 pip 和 virtualenv 等库，在其上推出了更便捷的使用方式。
 
 安装 pipenv
@@ -198,7 +208,9 @@ pipenv shell
 
 是不是很酷！
 
-### [conda](https://conda.io/en/latest/)
+### conda
+click to [conda](https://conda.io/en/latest/)
+
 最后说说 conda，conda 是一个神奇的库，它是著名的 Python 发行版 Anaconda 附带的包管理工具。它其实不是针对 Python 环境管理，而是 Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN 等等语言的包、依赖和环境管理工具。它的野心很大，甚至还有 UI 界面。
 
 ![](https://pic1.zhimg.com/80/v2-f08c73c7cfabe329b4ec502e96a5ee18_720w.webp)
@@ -241,31 +253,31 @@ conda 其实是在 anaconda 的安装目录下的 envs 子目录下创建环境�
 
 Anaconda 的界面甚至还有许多科学计算的软件、免费学习教程、文档等等，用好了非常强大。
 
-### 总结
+## 总结
 下面我来总结一下
 
-#### venv
+### venv
 优点：Python3.3 以上无需额外安装依赖，使用简单
 
 缺点：功能有限
 
 适用性：只适用于简单创建隔离目录的需求
 
-#### virtualenv
+### virtualenv
 优点：虚拟环境功能完善
 
 缺点：仅仅是命令行工具，不便于工程化
 
 适用性：适用于命令行爱好者
 
-#### pyenv
+### pyenv
 优点：方便的多版本管理
 
 缺点：其他库很强，显得略有鸡肋
 
 适用性：适用于仅需要多个 Python 版本的管理
 
-#### pipenv
+### pipenv
 优点：便于项目内部协同工作
 
 缺点：Bug 很多，确实比较年轻，安装的流程有些让人困惑，不像 pip 这么直接好理解
@@ -274,7 +286,7 @@ Anaconda 的界面甚至还有许多科学计算的软件、免费学习教程�
 
 >（补充by搬运：现在体验很好，bug也少，现在搬运就在用这个）
 
-#### conda
+### conda
 优点：功能很多，还有 UI
 
 缺点：就 Python 包管理而言，太重
@@ -285,5 +297,5 @@ Anaconda 的界面甚至还有许多科学计算的软件、免费学习教程�
 
 不知道大家钟爱哪一款？
 
-### 后记
+## 后记
 嘭！一声巨响后，装甲巨兽抱头倒下。“这个玩意还不错嘛！”小派嘴角微微上扬，“现在我可有无限仓库了。”
