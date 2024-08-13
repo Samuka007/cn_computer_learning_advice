@@ -15,4 +15,4 @@ showTableOfContents: false
 - 电诊水群：690990997
 
 ## QQ频道
-点击链接加入腾讯频道【SCUT电诊】：https://pd.qq.com/s/6o6x6z1mf
+点击链接加入腾讯频道【SCUT电诊】：[https://pd.qq.com/s/6o6x6z1mf](https://pd.qq.com/s/6o6x6z1mf)
