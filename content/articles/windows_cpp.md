@@ -24,9 +24,9 @@ draft: false
 
 ## 配置Visual Studio Code
 
-1. 完成安装：[在Windows上安装 Visual Studio Code](install_vscode_on_windows)
-2. （可选）新建一个Profile，避免插件污染，以及过多插件在同一个Profile造成的加载缓慢：[Profile](using_vscode#profile)
-3. 安装 `C/C++ Extension Pack` 插件，参考：[VSCode 通用C++环境](vscode_cpp_common)
+1. 完成安装：[在Windows上安装 Visual Studio Code](../install_vscode_on_windows)
+2. （可选）新建一个Profile，避免插件污染，以及过多插件在同一个Profile造成的加载缓慢：[Profile](../using_vscode#profile)
+3. 安装 `C/C++ Extension Pack` 插件，参考：[VSCode 通用C++环境](../vscode_cpp_common)
 4. 其他插件的安装会在后续步骤中分别进行
 
 ## 安装Mingw-w64
@@ -39,7 +39,7 @@ draft: false
 
 ### w64devkit
 
-> - [安装 - Mingw-w64](mingw#w64devkit)
+> - [安装 - Mingw-w64](../mingw#w64devkit)
 
 **安装步骤**：
 
@@ -48,7 +48,7 @@ draft: false
 - 将 `C:\w64devkit\bin` 添加到你的[`环境变量`]中
 - 打开命令行，输入 `gcc --version`，如果能看到版本信息，说明安装成功
 
-[`环境变量`]: environment_variable
+[`环境变量`]: ../environment_variable
 
 ## 配置XMake
 
@@ -68,7 +68,7 @@ code --install-extension xmake-vscode.xmake
 
 ## (Optional) 配置Intellsense
 
-有时候xmake-vscode并不能很好的配置Intellsense，这时候如果仍然希望使用 `cpp-tools` 提供的内联提示，我们需要手动配置其配置文件，参考：[配置Intellsense](vscode_cpp_common#配置-intellsence)
+有时候xmake-vscode并不能很好的配置Intellsense，这时候如果仍然希望使用 `cpp-tools` 提供的内联提示，我们需要手动配置其配置文件，参考：[配置Intellsense](../vscode_cpp_common#配置-intellsence)
 
 ## 使用/测试配置
 

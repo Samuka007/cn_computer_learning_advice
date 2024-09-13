@@ -47,4 +47,4 @@ w64devkit is a **portable** C and C++ development kit for x64 (and x86) Windows.
 - 将 `C:\w64devkit\bin` 添加到你的[`环境变量`]中
 - 打开命令行，输入 `gcc --version`，如果能看到版本信息，说明安装成功
 
-[`环境变量`]: environment_variable
+[`环境变量`]: ../environment_variable
