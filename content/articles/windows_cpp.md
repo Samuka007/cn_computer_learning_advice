@@ -15,6 +15,10 @@ draft: false
 
 本篇指南会带你从零开始，在完全干净的Windows环境中，配置一个足够上项目规模的，基于VS Code的，现代的C++开发环境。
 
+如果有不明白的步骤，也可以参考本人录制的[B站视频](https://www.bilibili.com/video/BV13F4WeLEqR)，如果对你有帮助请不吝送上三连～
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113124254420346&bvid=BV13F4WeLEqR&cid=25836912872&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 配置预览：
 
 - Visual Studio Code
