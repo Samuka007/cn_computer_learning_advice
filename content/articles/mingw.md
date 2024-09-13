@@ -1,5 +1,6 @@
 ---
 title: "Mingw-w64"
+date: 2024-09-13T14:04:21+08:00
 authors: 
     - "Samuka007"
 categories:
