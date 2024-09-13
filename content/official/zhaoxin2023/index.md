@@ -237,9 +237,12 @@ HOW TO JOIN US
 <td width="33%"><img src="qrcodes/zhaoxin Medium.jpeg"/></td>
 </tr></table>
 
-> 欢迎你加入我们的队伍 
+> 欢迎你加入我们的队伍
+>
 > 无论你有没有经验 
+>
 > 无论你有没有热情 
+>
 > 我们都欢迎你的到来！
 
 <br>
