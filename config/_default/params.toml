@@ -72,7 +72,7 @@ defaultBackgroundImage = "/img/Diamond.jpg" # used as default for background ima
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
-  sortOrder = "lastEdit"
+  # sortOrder = "lastEdit"
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]

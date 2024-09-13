@@ -68,7 +68,8 @@ code --install-extension xmake-vscode.xmake
 
 ## (Optional) 配置Intellsense
 
-有时候xmake-vscode并不能很好的配置Intellsence，这时候如果仍然希望使用 `cpp-tools` 提供的内联提示，我们需要手动配置其配置文件，参考：[配置Intellsence](../vscode_cpp_common/#%E9%85%8D%E7%BD%AE-intellsence)
+有时候xmake-vscode并不能很好的配置Intellsence，这时候如果仍然希望使用 `cpp-tools` 提供的内联提示，我们需要手动配置其配置文件，参考：[配置Intellsence](https://guide.samuka007.xyz/articles/vscode_cpp_common/#%E9%85%8D%E7%BD%AE-intellsence)
+<!-- use absolute route duel to incomplete chinese support -->
 
 ## 使用/测试配置
 

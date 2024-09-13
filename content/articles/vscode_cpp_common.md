@@ -48,8 +48,6 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vsco
 
 可以在状态栏设置平台，架构，编译模式，工具链等选项，随后点击Build开始构建。
 
-To add collapsible sections in Markdown, you can use HTML `<details>` and `<summary>` tags. Here's an example:
-
 <details>
 <summary>自定义选项</summary>
 如果这些选项不够，可以创建.vscode/settings.json并编写xmake需要的设置，如
