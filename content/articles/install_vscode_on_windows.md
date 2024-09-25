@@ -39,3 +39,21 @@ draft: false
 <!-- link to using_vscode -->
 
 [WinGet]: https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+
+<div id='discourse-comments'></div>
+<meta name='discourse-username' content='DISCOURSE_USERNAME'>
+
+<script type="text/javascript">
+  DiscourseEmbed = {
+    discourseUrl: 'https://bbs.scutosc.cn/',
+    discourseEmbedUrl: 'https://guide.samuka007.xyz/articles/install_vscode_on_windows/',
+    // className: 'CLASS_NAME',
+  };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
